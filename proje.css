@@ -1,0 +1,49 @@
+/*Kodun ana kısmının düzenlemesini yapan kodlar*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: url(./arkaplan.png);
+    background-size: cover;
+}
+
+/*Oyunun açıklaması için verilen paragrafın düzenlemesini yapan kodlar*/
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/*Sayfa içinde oyunun oynanacağı kutucuğun düzenlemesini yapan kodlar*/
+#board {
+    width: 600px;
+    height: 600px;
+    
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+    background: url("./toprak.png");
+    background-size: cover;
+    border: 15px solid black;
+    border-radius: 25px;
+}
+
+/*Ana oyun kutucuğunun 16 parçaya bölünmesinin ardından her bir kutucuğu düzenleyen kodlar*/
+#board div {
+
+    width: 150px;
+    height: 150px;
+    background-image: url("./saksi.png");
+    background-size: 145px; 
+}
+
+#board div img {
+    width: 110px;
+    
+}
