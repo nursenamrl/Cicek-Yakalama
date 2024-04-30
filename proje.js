@@ -63,7 +63,7 @@ function setFlower(){
         currFlowerTile.innerHTML = "";
     }
     let flower = document.createElement("img");
-    flower.src = "./resim1.png";
+    flower.src = "./Resim1.png";
 
     let num = getRandomTile();
     if(currSnakeTile && currSnakeTile.id == num){
