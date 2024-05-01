@@ -6,6 +6,8 @@ Proje kodları yazılırken HTML, CSS ve Javascript kullanılmıştır.
 Projenin iskeleti HTML kodları ile hazırlanmış ve CSS kodları ile sayfanın ve sayfadaki ögelerin görüntü ayarları düzenlenmiş.
 Proje kapsamında yapılan oyunun ana fonksiyonlarını yazmak için Javascript kullanılmıştır.
 
+![Oyun görseli 1](https://github.com/nursenamrl/Cicek-Yakalama/blob/main/oyun1.png)
+
 ## Oyunun Amaci ve Oynanisi
 Oyun tek bir ekranda oynanan bir  çiçek yakalama oyunudur.
 Sayfaya girildiği zaman görülen ekran içerisinde 16 adet saksı bulunur. 
@@ -16,6 +18,8 @@ Kullanıcının yakaladığı her bir çiçek için skor sayacı 5 puan artar.
 Eğer kullanıcı bir yılan figürünün üzerine basarsa oyun biter ve kazanılan toplam puan ekran üzerinde gösterilir.
 Kullanıcı istediği zaman 'boşluk' tuşunu kullanarak oyunu durdurabilir ve 'R' tuşu ile oyunu sıfırlayabilir.
 
+![Oyun görseli 2](https://github.com/nursenamrl/Cicek-Yakalama/blob/main/oyun2.png)
+
 ## Oyun Ornegi
-Oyunun nasıl çalıştığını daha ayrıntılı görmek için aşağıdaki videoyu izleyebilirsiniz.</br>
+Oyunun nasıl çalıştığını daha ayrıntılı görmek için aşağıdaki youtube videosunu izleyebilirsiniz.</br>
 [Çiçek Yakalama Oyunu](https://youtu.be/p25B4SwH-t0)
